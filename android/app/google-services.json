@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "289105318442",
+    "project_id": "classwork8-43801",
+    "storage_bucket": "classwork8-43801.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:289105318442:android:aaccf39b2619a0341da953",
+        "android_client_info": {
+          "package_name": "com.example.cw8"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDpHP808jUX0qIsGNaXOYn1ppylrGUkOvw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
